@@ -10,7 +10,7 @@ ps大作业
 ![21a40881b57dea24b3296d171ed8d34](https://user-images.githubusercontent.com/90126679/133185665-a766103b-0ef1-47a3-b41d-ba03b8febf37.jpg)  
 关于编程  
 python爬虫制作的词云图  
-![a9e20c6520c6345563c241869936219](https://user-images.githubusercontent.com/90126679/133185903-c05c93c6-023e-435b-9d36-b2940f494ecc.png)
+![a9e20c6520c6345563c241869936219](https://user-images.githubusercontent.com/90126679/133185903-c05c93c6-023e-435b-9d36-b2940f494ecc.png)  
 关于建模
 ![b12dd132775ebb0f124d352b6066aaf](https://user-images.githubusercontent.com/90126679/133188152-efa013a6-e622-4485-869d-1c54ff74175b.png)
 
